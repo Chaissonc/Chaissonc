@@ -1,6 +1,6 @@
 <H1>Hi Im Chaisson!</H1>
 
-<a>About Me:</a>
+<a>About Me:</a>.
 <a> Coming Soon</a>
 <h4>Here are the current languages I know</h4>
 
