@@ -1,6 +1,5 @@
 <H1>Howdy Im Chaisson! 🤠</H1>
 
-<a>About Me:</a>.
 <a>I'm a full-stack student developer majoring in CS and UNLV, who loves turning ideas into real projects. I'm always tinkering on something new. Still learning, but that's all the fun.</a>
 <h4>Here are the current languages I know</h4>
 
